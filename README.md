@@ -1,2 +1,1 @@
-# test
-Bot_test
+BOT FOR TESTING
